@@ -85,8 +85,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="souwmo04 stats" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souwmo04&theme=dracula&no-frame=true&row=1&&title=Stars,Followers,Commits,Repositories,PullRequest" alt="Trophies" />
-</p>
+
 
