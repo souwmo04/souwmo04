@@ -90,8 +90,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=souwmo04&theme=dracula&no-frame=true&row=1&&title=Stars,Followers,Commits,Repositories,PullRequest" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/souwmo04?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/souwmo04?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
