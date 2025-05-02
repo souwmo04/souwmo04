@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=souwmo04&label=Profile%20views&color=0e75b6&style=flat" alt="souwmo04" />
 </p>
 
-- 🌱 I’m currently learning **CSS, React.js**  
+- 🌱 I’m currently learning **Python, Javascript**  
 - 📫 Reach me at **kingfahim214@gmail.com**  
-- ⚡ Fun fact: *Death Note was banned in some schools!*  
+- ⚡ Fun fact: *I would love to change the world, but they won’t give me the source code.*  
 
 ---
 
@@ -32,23 +32,66 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL/SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souwmo04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 📈 GitHub Stats
+
+<!-- GitHub Contribution Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="souwmo04 streak" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souwmo04" alt="GitHub Streak" /></p>
+<!-- GitHub Profile Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="souwmo04 stats" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souwmo04&theme=dracula&no-frame=true&row=1&&title=Stars,Followers,Commits,Repositories,PullRequest" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/souwmo04?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/souwmo04?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
