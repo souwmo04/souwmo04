@@ -68,25 +68,24 @@
 
 ## 🚀 GitHub Stats
 
-<!-- Table Layout for Streaks and Languages -->
-<table width="100%">
-  <tr>
-    <!-- 🔥 Contribution Streak (Left) -->
-    <td align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
-    </td>
+<!-- 🔥 Contribution Streak (Left) & 🧠 Most Used Languages (Right) in the same row -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- 🔥 Contribution Streak -->
+  <p style="flex: 1; text-align: left;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
+  </p>
 
-    <!-- 🧠 Most Used Languages (Right) -->
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFA500&text_color=F8F8F2&icon_color=FFA500" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <!-- 🧠 Most Used Languages -->
+  <p style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFA500&text_color=F8F8F2&icon_color=FFA500" alt="Top Languages" />
+  </p>
+</div>
 
 <!-- 💻 General Stats (Center) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
+
 
 
 
