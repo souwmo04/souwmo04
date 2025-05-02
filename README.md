@@ -70,19 +70,19 @@
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Contribution Streak -->
+<!-- 🔥 Contribution Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="souwmo04 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
 </p>
 
-<!-- Most Used Languages -->
+<!-- 🧠 Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFA500&text_color=F8F8F2&icon_color=FFA500" alt="Top Languages" />
 </p>
 
-<!-- GitHub Profile Stats -->
+<!-- 💻 General Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="souwmo04 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souwmo04&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 
