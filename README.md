@@ -68,17 +68,20 @@
 
 ## 🚀 GitHub Stats
 
-<!-- 🧠 Most Used Languages (Right) -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p align="left" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
-  </p>
+<!-- Table Layout for Streaks and Languages -->
+<table width="100%">
+  <tr>
+    <!-- 🔥 Contribution Streak (Left) -->
+    <td align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
+    </td>
 
-  <!-- 🔥 Contribution Streak (Left) -->
-  <p align="right" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFA500&text_color=F8F8F2&icon_color=FFA500" alt="Top Languages" />
-  </p>
-</div>
+    <!-- 🧠 Most Used Languages (Right) -->
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souwmo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FFA500&text_color=F8F8F2&icon_color=FFA500" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <!-- 💻 General Stats (Center) -->
 <p align="center">
