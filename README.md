@@ -70,8 +70,9 @@
 
 <!-- 🔥 Contribution Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=souwmo04&theme=vue-dark&hide_border=true&background=00000000&ring=FFA500&fire=FF5733&currStreakLabel=FFA500" alt="GitHub Streak" />
 </p>
+
 
 <!-- 🧠 Most Used Languages -->
 <p align="center">
